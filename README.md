@@ -1,1 +1,3 @@
-# Projetos-em-C-ANSI
+# Projetos em C ANSI
+
+- Calculadora Simples
